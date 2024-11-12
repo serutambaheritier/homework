@@ -1,0 +1,38 @@
+.link{
+  background-color: rgb(67, 201, 161);
+  width: 99rem;
+  height: 10rem;
+  border: 1px ;
+  margin: 10px 5px 10px px;
+  max-width: 100%;
+}
+.link ul{
+  background-color: rgb(40, 40, 180);
+  text-align: right;
+  height: 3rem;
+}
+.link li{
+  display: inline-flex;
+  margin: 5px;
+  margin-right: 30px;
+  
+  
+
+}
+.link a{
+  text-decoration: none;
+  color: aliceblue; 
+}
+.link ul li a:hover{
+  text-decoration: underline;
+  font-size: 20px;
+}
+.link2{
+  background-color: blue;
+  width: 50rem;
+  height: 5rem;
+  border: 1px;
+}
+.link2 input{
+  width: 10px;
+}
